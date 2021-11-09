@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Bose</h1>
 
 
- "name": "Eddie Jaoude",
- "githubUsername": "eddiejaoude",
- "imageUrl": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
- "issueNumber": 66
-
-
 - ⚒ Currently working on **Django**
 
 - 📫 How to reach me **chandrabosep3112@gmail.com**
