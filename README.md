@@ -6,7 +6,7 @@
 - 📫 How to reach me **cahndrabosep3112@gmail.com**
 
 - ⚡ Fun fact: **I love music, learning, gaming and coding**
-**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
