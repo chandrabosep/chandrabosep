@@ -3,7 +3,7 @@
 
 - ⚒ Currently learning **Django**
 
-- 📫 How to reach me **cahndrabosep3112@gmail.com**
+- 📫 How to reach me **chandrabosep3112@gmail.com**
 
 - ⚡ Fun fact: **I love music, learning, gaming and coding**
 
