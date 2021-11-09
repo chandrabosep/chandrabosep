@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... Python & Django and OpenSource
-- 🌱 I’m currently learning ... Django 🤣
+-  ⚒ I’m currently learning ... Django 🤣
 - ⚡ Fun fact: I love music, learning, gaming and coding
 
 ### Connect with me:  
