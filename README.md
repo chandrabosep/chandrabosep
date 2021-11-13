@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... Python and OpenSource
--  ⚒ I’m currently learning ... Html,css,JS 🤣
+-  ⚒ I’m currently learning ... Html,Css,JS 🤣
 - ⚡ Fun fact: I love music, learning, gaming and coding
 
 ### Connect with me:  
