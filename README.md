@@ -2,8 +2,8 @@
 ### Hi there I'm Chandra Bose 👋
 
 
-- 🔭 I’m currently working on ... Python and OpenSource
--  ⚒ I’m currently learning ... HTML,CSS,JS 🤣
+- 🔭 I’m currently working on Python and OpenSource
+-  ⚒ I’m currently learning HTML,CSS,JS 🤣
 - ⚡ Fun fact: I love music, learning, gaming and coding
 
 ### Connect with me:  
