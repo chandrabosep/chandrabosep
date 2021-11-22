@@ -39,7 +39,8 @@
 
 <br />
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabosep&&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&show_icons=true&locale=en&layout=compact" alt="chandrabosep" /></p>
+
 
 
