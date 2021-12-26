@@ -20,13 +20,6 @@
 <br />
 
 
-### Check out my website 
-
-<a herf="https://chandrabosep3112.wixsite.com/website">
-<img  width="100px" src="https://cdn.icon-icons.com/icons2/1371/PNG/512/robot02_90810.png" />
-  </a>
-
-
 <h3 align="left">Languages & Frameworks 🚧</h3>
 <p align="left"> 
   
