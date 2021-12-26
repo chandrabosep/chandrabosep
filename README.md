@@ -19,8 +19,13 @@
   </a>
 <br />
 
-<h3 align="left">Languages & Frameworks 🚧</h3>
 
+### Check out my website 
+
+<img  width="100px" src="https://cdn.icon-icons.com/icons2/1371/PNG/512/robot02_90810.png" />
+
+
+<h3 align="left">Languages & Frameworks 🚧</h3>
 <p align="left"> 
   
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)  ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor) 
