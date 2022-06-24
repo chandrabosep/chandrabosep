@@ -3,7 +3,7 @@
 
 ### About me
 
--  ⚒ I’m currently learning HTML,CSS and JS.
+-  ⚒ I’m currently learning MERN stack.
 - ⚡ Fun fact: I love music, learning, gaming and coding.
 
 ### Connect with me 📪 
