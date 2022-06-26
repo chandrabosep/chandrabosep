@@ -20,25 +20,17 @@
 <br />
 
 
-<h3 align="left">Languages & Frameworks 🚧</h3>
-<p align="left"> 
-  
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor)  ![CSS3](https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor) 
-![javascript](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=45&color=currentColor)
-![c](https://icongr.am/devicon/c-original.svg?size=40&color=currentColor)
-  
-  
-  
+### Languages and Tools:
+
+<p>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/35/000000/git.png"/> 
+<img src="https://img.icons8.com/color/35/000000/github.png"/> 
 </p>
-<h3 align="left">Tools 🛠</h3>
-
-
-![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
-![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
-![Pycharm](https://icongr.am/devicon/pycharm-plain-wordmark.svg?size=50&color=currentColor)
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-
 <br />
 
 ![Your Repository's_Stats](https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&&layout=compact/)
