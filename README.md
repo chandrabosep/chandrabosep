@@ -24,6 +24,7 @@
 <p align="left"> 
   
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)  ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor) 
+![javascript](https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
 ![c](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
   
