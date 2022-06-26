@@ -23,10 +23,10 @@
 <h3 align="left">Languages & Frameworks 🚧</h3>
 <p align="left"> 
   
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)  ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor) 
-![javascript](https://icongr.am/devicon/javascript-original.svg?size=45&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-![c](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor)  ![CSS3](https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor) 
+![javascript](https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor)
+![Python](https://icongr.am/devicon/python-original.svg?size=45&color=currentColor)
+![c](https://icongr.am/devicon/c-original.svg?size=40&color=currentColor)
   
   
   
@@ -41,7 +41,8 @@
 
 <br />
 
-![Your Repository's_Stats](https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&&layout=compact)
+![Your Repository's_Stats](https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&&layout=compact/)
+
 
 
 
