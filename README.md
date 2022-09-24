@@ -3,7 +3,7 @@
 
 ### About me
 
--  ⚒ I’m currently learning MERN stack.
+-  ⚒ I’m currently learning solidity.
 - ⚡ Fun fact: I love music, learning, gaming and coding.
 
 ### Connect with me 📪 
