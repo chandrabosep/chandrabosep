@@ -8,6 +8,10 @@
 
 ### Connect with me 📪 
 
+ <a href="https://www.linkedin.com/in/chandra-bose-p-52b463248/1">
+    <img align="left" alt="Chandra_Bose.p | Linkedin" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+
   <a href="https://twitter.com/Chandra_Bose31">
     <img align="left" alt="Chandra_Bose.p | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
