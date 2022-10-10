@@ -37,7 +37,7 @@
 </p>
 <br />
 
-![Your Repository's_Stats](https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&&layout=/)
+![Your Repository's_Stats](https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&&layout=compact/)
 
 
 
