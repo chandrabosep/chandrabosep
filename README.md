@@ -42,5 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&show_icons=true&locale=en&layout=compact" alt="chandrabosep" /></p>
 
 
+[![@chandra_bose's Holopin board](https://holopin.me/chandra_bose)](https://holopin.io/@chandra_bose)
 
 
