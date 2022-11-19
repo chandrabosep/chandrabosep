@@ -1,60 +1,78 @@
 
-<h1 align="center">Hi there I'm Chandra Bose 👋</h1>
-
-### About me
-
--  ⚒ I'm currently learning React
-- 🌈 Exploring WEB3.
-- ⚡ Fun fact: I love music, learning, gaming and coding.
-
-### Connect with me 📪 
-
- <a href="https://www.linkedin.com/in/chandra-bose-p-52b463248/1">
-    <img align="left" alt="Chandra_Bose.p | Linkedin" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-
-  <a href="https://twitter.com/Chandra_Bose31">
-    <img align="left" alt="Chandra_Bose.p | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/chandra_bose.p/">
-    <img align="left" alt="Chandra_Bose.p | Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:chandrabosep3112@gmail.com">
-    <img align="left" alt="Chandra_Bose.p | Gmail" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-<br />
-
-
-### Languages and Tools:
-
+<h1 align="center">Hi, I am Chandra Bose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
-
-<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;WEB3+Enthusias;Open-Source+Enthusiast;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...&center=true">
 </p>
 
-<br />
+<p align="center"> A bit about Myself, I am chandra Bose pursuing my Computer Science Degree currently, As of now, I am focused on web development and web3 but still, wish to explore many fields. ⚡</p>
+<br>
+<p align="center"> <a href="https://twitter.com/Chandra_Bose31" target="blank"><img src="https://img.shields.io/twitter/follow/Chandra_Bose31?logo=twitter&style=for-the-badge" alt="Chandra_Bose31" /></a> </p>
+<br>
 
-<a href="https://www.buymeacoffee.com/chandrabose" target="_blank"><img width="200" alt="yellow-button" src="https://user-images.githubusercontent.com/70272542/198683761-c04a9ebb-6ab8-4f56-858d-1231e5f81bb3.png"></a>
+<h1 align="center">< ToolBox 🛠></h1>
+<p align="center"> 
+ 
+<img alt="HTML5" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
+
+ <img alt="CSS3" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
+
+  <img alt="Bootstrap" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=">
+ 
+  <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
+ 
+<img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=">
+
+ <img alt="Create React App" src="https://img.shields.io/static/v1?style=for-the-badge&message=Create+React+App&color=222222&logo=Create+React+App&logoColor=09D3AC&label=">
+
+  <img alt="npm" src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=">
+ 
+   <img alt="GitHub" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=">
+
+<img alt="GitHub Pages" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=">
+ 
+ <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=">
+ 
+ <img alt="Stack Overflow" src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=">
+
+<img alt="C" src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=">
+
+ <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
+ 
+ <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
+
+ <img alt="Figma" src="https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=">
+
+ <img alt="Canva" src="https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=">
+
+  <img alt="Microsoft OneNote" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+OneNote&color=7719AA&logo=Microsoft+OneNote&logoColor=FFFFFF&label=">
+ 
+   <img alt="Notion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=">
+</p>
+<br>
+
+<h1 align="center">Let's Get Connected</h1>
+
+<p align="center">
+<a  href="https://www.linkedin.com/in/chandra-bose-p-52b463248/1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Chandra_Bose31" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:chandrabosep3112@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://t.me/https://t.me/Chandra_bose31"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://www.instagram.com/chandra_bose.p/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ </p>
+
+
+ <h1></h1> 
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&show_icons=true&locale=en&layout=compact" alt="chandrabosep" /></p>
 
 
+<a href="https://www.buymeacoffee.com/chandrabose" target="_blank"><img width="200" alt="yellow-button" src="https://user-images.githubusercontent.com/70272542/198683761-c04a9ebb-6ab8-4f56-858d-1231e5f81bb3.png"></a>
 
+ 
+ 
 [![@chandra_bose's Holopin board](https://holopin.me/chandra_bose)](https://holopin.io/@chandra_bose)
 
 
