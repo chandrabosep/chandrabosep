@@ -1,4 +1,4 @@
-
+<img src="https://github.com/chandrabosep/chandrabosep/blob/main/header.gif?raw=true">
 <h1 align="center">Hi, I am Chandra Bose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;WEB3+Enthusias;Open-Source+Enthusiast;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...&center=true">
