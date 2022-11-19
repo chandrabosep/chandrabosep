@@ -11,7 +11,7 @@
 
 <h1 align="center">< ToolBox 🛠></h1>
 <p align="center"> 
- 
+ <br>
 <img alt="HTML5" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
 
  <img alt="CSS3" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
@@ -51,7 +51,7 @@
 <br>
 
 <h1 align="center">Let's Get Connected</h1>
-
+<br>
 <p align="center">
 <a  href="https://www.linkedin.com/in/chandra-bose-p-52b463248/1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Chandra_Bose31" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
@@ -60,16 +60,16 @@
 <a  href="https://www.instagram.com/chandra_bose.p/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  </p>
 
-
- <h1></h1> 
-
-
+<br>
+ <h1  align="center">Most Used Languages 💻</h1> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrabosep&show_icons=true&locale=en&layout=compact" alt="chandrabosep" /></p>
 
 
-<a href="https://www.buymeacoffee.com/chandrabose" target="_blank"><img width="200" alt="yellow-button" src="https://user-images.githubusercontent.com/70272542/198683761-c04a9ebb-6ab8-4f56-858d-1231e5f81bb3.png"></a>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabosep&layout=compact&theme=midnight-purple" alt="chandrabosep" /></p>
+
+
+<br>
 
  
  
